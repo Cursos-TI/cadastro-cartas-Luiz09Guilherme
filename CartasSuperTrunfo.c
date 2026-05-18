@@ -1,5 +1,5 @@
 /*
- *  *  Conceitos aplicados:
+ *  Conceitos aplicados:
  *      - Variáveis e tipos de dados (char, int, float, char[])
  *      - Operadores de atribuição (=)
  *      - Funções de entrada e saída (printf, scanf)
